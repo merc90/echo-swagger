@@ -3,8 +3,8 @@ module github.com/merc90/echo-swagger
 go 1.17
 
 require (
-	github.com/merc90/echo/v4 v4.0.0-20230517105053-c920908f6886
 	github.com/labstack/echo/v4 v4.10.2
+	github.com/merc90/echo/v4 v4.0.0-20230517105053-c920908f6886
 	github.com/stretchr/testify v1.8.2
 	github.com/swaggo/files/v2 v2.0.0
 	github.com/swaggo/swag v1.8.12
